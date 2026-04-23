@@ -6,7 +6,5 @@ coverage/
 *.log
 .env*
 !.env.example
-GetGoingFast-QuickStart/launcher.config
-GetGoingFast-QuickStart/logs/
-Distributor-TwoFiles/logs/
-GetGoingFast-App/
+projects/
+ComfyUI-Manual-cuda12.9-Universal-install/ComfyUI/
